@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "copilot/fix-playwright-e2e-tests",
+    "feat/add-og-image-metadata",
+    "main",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "copilot/fix-playwright-e2e-tests": "main",
+    "feat/add-og-image-metadata": "main",
+    "main": null,
+    "master": "main",
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "copilot/fix-playwright-e2e-tests",
+    "feat/add-og-image-metadata",
+    "master",
+    "origin"
+  ]
+}
